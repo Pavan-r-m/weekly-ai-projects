@@ -1,0 +1,6 @@
+# Core NLP — install model separately:
+#   python -m spacy download en_core_web_sm
+spacy>=3.7,<4.0
+
+# The script also works WITHOUT spaCy using regex heuristics.
+# No other runtime dependencies required.
