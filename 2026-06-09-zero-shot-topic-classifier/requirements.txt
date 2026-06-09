@@ -1,0 +1,7 @@
+# Zero-Shot Text Topic Classifier
+# Uses only Python standard library — no external dependencies required!
+# Python 3.8+ recommended
+
+# Optional: for richer visualization (not required to run the classifier)
+# matplotlib>=3.7.0
+# pandas>=2.0.0
