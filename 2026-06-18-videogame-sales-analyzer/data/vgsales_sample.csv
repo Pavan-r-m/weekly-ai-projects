@@ -1,0 +1,121 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+1,Wii Sports,Wii,2006,Sports,Nintendo,41.49,29.02,3.77,8.46,82.74
+2,Super Mario Bros.,NES,1985,Platform,Nintendo,29.08,3.58,6.81,0.77,40.24
+3,Mario Kart Wii,Wii,2008,Racing,Nintendo,15.85,12.88,3.79,3.31,35.82
+4,Wii Sports Resort,Wii,2009,Sports,Nintendo,15.75,11.01,3.28,2.96,33.00
+5,Pokemon Red/Pokemon Blue,GB,1996,Role-Playing,Nintendo,11.27,8.89,10.22,1.00,31.37
+6,Tetris,GB,1989,Puzzle,Nintendo,23.20,2.26,4.22,0.58,30.26
+7,New Super Mario Bros.,DS,2006,Platform,Nintendo,11.38,9.23,6.50,2.90,30.01
+8,Wii Play,Wii,2006,Misc,Nintendo,14.03,9.20,2.93,2.85,29.02
+9,New Super Mario Bros. Wii,Wii,2009,Platform,Nintendo,14.59,7.06,4.70,2.26,28.62
+10,Duck Hunt,NES,1984,Shooter,Nintendo,26.93,0.63,0.28,0.47,28.31
+11,Grand Theft Auto V,PS3,2013,Action,Take-Two Interactive,7.01,9.27,0.97,4.14,21.40
+12,Grand Theft Auto V,X360,2013,Action,Take-Two Interactive,9.63,5.31,0.38,1.42,16.73
+13,Kinect Adventures!,X360,2010,Misc,Microsoft Game Studios,14.97,4.94,0.24,1.67,21.82
+14,Super Mario World,SNES,1990,Platform,Nintendo,12.78,3.75,3.54,0.55,20.61
+15,Pokemon Gold/Pokemon Silver,GB,1999,Role-Playing,Nintendo,9.00,6.18,7.20,0.71,23.10
+16,Brain Age: Train Your Brain,DS,2005,Misc,Nintendo,4.75,9.26,3.68,2.93,20.22
+17,Gran Turismo,PS,1997,Racing,Sony Computer Entertainment,4.02,10.54,3.86,1.06,10.95
+18,Grand Theft Auto San Andreas,PS2,2004,Action,Take-Two Interactive,9.43,0.40,0.41,0.47,17.80
+19,Super Mario Bros. 3,NES,1988,Platform,Nintendo,9.54,3.44,3.84,0.46,17.28
+20,Call of Duty Modern Warfare 3,X360,2011,Shooter,Activision,9.03,4.28,0.13,1.32,14.76
+21,Pokemon Diamond/Pokemon Pearl,DS,2006,Role-Playing,Nintendo,6.42,4.52,5.98,1.37,18.36
+22,Call of Duty Black Ops,X360,2010,Shooter,Activision,9.67,3.73,0.11,1.13,15.02
+23,Call of Duty Black Ops II,X360,2012,Shooter,Activision,8.25,4.23,0.13,1.35,14.03
+24,FIFA 16,PS4,2015,Sports,Electronic Arts,1.08,9.15,0.09,1.68,12.65
+25,Wii Fit,Wii,2007,Sports,Nintendo,8.94,8.03,3.60,2.15,22.72
+26,Wii Fit Plus,Wii,2009,Sports,Nintendo,9.09,8.59,2.53,1.79,21.99
+27,Call of Duty Modern Warfare 2,X360,2009,Shooter,Activision,8.52,3.63,0.13,1.12,13.51
+28,The Legend of Zelda Ocarina of Time,N64,1998,Action-Adventure,Nintendo,7.60,3.93,2.54,0.55,14.64
+29,Super Mario Land,GB,1989,Platform,Nintendo,5.47,3.13,2.59,1.35,18.14
+30,Super Mario Bros. 2,NES,1988,Platform,Nintendo,7.46,1.02,0.82,0.26,7.46
+31,Pokemon X,3DS,2013,Role-Playing,Nintendo,5.84,4.01,4.02,1.93,15.64
+32,Halo 3,X360,2007,Shooter,Microsoft Game Studios,7.96,2.36,0.14,0.73,12.04
+33,The Sims 3,PC,2009,Simulation,Electronic Arts,2.47,5.13,0.14,1.45,7.06
+34,Grand Theft Auto IV,PS3,2008,Action,Take-Two Interactive,5.30,4.19,0.19,1.47,11.95
+35,Gran Turismo 3 A-spec,PS2,2001,Racing,Sony Computer Entertainment,6.85,5.09,1.87,1.10,14.89
+36,Call of Duty Ghosts,X360,2013,Shooter,Activision,7.10,3.03,0.09,0.97,11.21
+37,Battlefield 3,X360,2011,Shooter,Electronic Arts,5.29,3.24,0.08,0.95,9.26
+38,The Elder Scrolls V Skyrim,X360,2011,Role-Playing,Bethesda Softworks,4.73,2.64,0.20,0.69,8.27
+39,The Elder Scrolls V Skyrim,PS3,2011,Role-Playing,Bethesda Softworks,4.52,2.48,0.31,0.67,7.97
+40,Pokemon HeartGold/SoulSilver,DS,2009,Role-Playing,Nintendo,4.40,3.29,3.96,1.26,12.72
+41,Mario Kart DS,DS,2005,Racing,Nintendo,6.72,5.49,2.38,1.37,23.42
+42,Halo Reach,X360,2010,Shooter,Microsoft Game Studios,6.19,2.40,0.12,0.86,9.66
+43,Call of Duty 4 Modern Warfare,X360,2007,Shooter,Activision,6.62,2.75,0.11,0.82,10.61
+44,Pokemon Omega Ruby,3DS,2014,Role-Playing,Nintendo,3.29,2.42,2.89,1.00,9.94
+45,Red Dead Redemption,X360,2010,Action,Take-Two Interactive,6.40,3.04,0.17,0.96,11.67
+46,Nintendogs,DS,2005,Simulation,Nintendo,6.44,7.39,1.72,2.12,24.76
+47,Minecraft,X360,2013,Misc,Microsoft Game Studios,6.04,1.59,0.18,0.85,9.18
+48,FIFA 15,PS4,2014,Sports,Electronic Arts,1.06,8.05,0.11,1.56,10.78
+49,Diablo III,PC,2012,Role-Playing,Blizzard Entertainment,3.40,3.34,0.48,0.74,8.78
+50,Grand Theft Auto Vice City,PS2,2002,Action,Take-Two Interactive,8.41,5.49,0.47,1.78,16.15
+51,Super Smash Bros. Brawl,Wii,2008,Fighting,Nintendo,5.97,2.87,2.50,0.72,13.04
+52,Animal Crossing Wild World,DS,2005,Simulation,Nintendo,2.77,3.47,3.96,0.88,11.75
+53,Guitar Hero III Legends of Rock,Wii,2007,Misc,Activision,3.97,2.41,0.03,0.64,6.05
+54,Halo 2,XB,2004,Shooter,Microsoft Game Studios,6.21,1.21,0.05,0.53,8.49
+55,Resident Evil 5,PS3,2009,Action,Capcom,2.19,2.57,1.02,1.02,5.84
+56,FIFA 14,PS3,2013,Sports,Electronic Arts,1.09,7.61,0.04,1.49,9.12
+57,FIFA 13,PS3,2012,Sports,Electronic Arts,1.49,8.27,0.08,1.69,10.13
+58,Borderlands 2,X360,2012,Shooter,Take-Two Interactive,3.68,1.26,0.03,0.44,5.90
+59,Donkey Kong Country,SNES,1994,Platform,Nintendo,9.30,6.18,3.00,0.79,9.30
+60,Super Mario Odyssey,NS,2017,Platform,Nintendo,5.66,4.22,2.54,2.00,14.44
+61,The Legend of Zelda Breath of the Wild,NS,2017,Action-Adventure,Nintendo,4.70,3.11,1.85,1.56,11.68
+62,Mario Kart 8 Deluxe,NS,2017,Racing,Nintendo,6.08,5.23,2.54,2.57,32.99
+63,Minecraft Switch,NS,2018,Misc,Microsoft Game Studios,3.50,4.20,1.42,1.54,13.37
+64,Splatoon 2,NS,2017,Shooter,Nintendo,2.82,1.35,2.63,0.85,10.13
+65,Animal Crossing New Horizons,NS,2020,Simulation,Nintendo,5.69,6.18,4.29,3.45,31.18
+66,Pokemon Sword/Shield,NS,2019,Role-Playing,Nintendo,3.86,3.67,2.75,1.88,22.64
+67,Super Smash Bros. Ultimate,NS,2018,Fighting,Nintendo,4.98,3.71,2.36,2.25,28.98
+68,Luigi's Mansion 3,NS,2019,Action-Adventure,Nintendo,2.14,2.32,0.93,0.90,9.99
+69,Ring Fit Adventure,NS,2019,Sports,Nintendo,1.64,2.00,2.45,0.84,14.73
+70,Pokemon Let's Go,NS,2018,Role-Playing,Nintendo,2.87,2.25,1.81,0.97,13.00
+71,FIFA 17,PS4,2016,Sports,Electronic Arts,1.11,10.29,0.11,2.08,13.59
+72,FIFA 18,PS4,2017,Sports,Electronic Arts,1.43,10.64,0.11,2.37,14.55
+73,Gran Turismo Sport,PS4,2017,Racing,Sony Interactive Entertainment,1.17,3.49,0.86,0.86,7.44
+74,Uncharted 4,PS4,2016,Action-Adventure,Sony Interactive Entertainment,3.01,4.11,0.51,1.52,15.46
+75,God of War 2018,PS4,2018,Action-Adventure,Sony Interactive Entertainment,3.12,3.55,0.41,1.52,19.50
+76,Marvel's Spider-Man,PS4,2018,Action-Adventure,Sony Interactive Entertainment,4.28,4.37,0.48,1.87,20.00
+77,Red Dead Redemption 2,PS4,2018,Action,Take-Two Interactive,5.21,5.42,0.35,2.47,39.00
+78,The Witcher 3,PS4,2015,Role-Playing,CD Projekt,2.14,3.43,0.13,0.92,30.00
+79,Overwatch,PS4,2016,Shooter,Blizzard Entertainment,4.28,4.12,0.65,1.74,35.00
+80,Zelda Tears of the Kingdom,NS,2023,Action-Adventure,Nintendo,4.21,3.54,2.89,1.95,18.51
+81,Street Fighter II,SNES,1992,Fighting,Capcom,6.30,1.80,2.50,0.36,6.30
+82,Final Fantasy VII,PS,1997,Role-Playing,Square,3.01,2.47,3.27,0.37,9.72
+83,Final Fantasy X,PS2,2001,Role-Playing,Square,3.50,1.90,4.14,0.27,8.05
+84,Madden NFL 07,PS2,2006,Sports,Electronic Arts,4.91,0.10,0.00,0.31,4.91
+85,Space Invaders,2600,1980,Shooter,Atari,6.00,0.87,0.00,0.55,6.00
+86,The Legend of Zelda,NES,1986,Action-Adventure,Nintendo,6.51,0.93,0.72,0.25,9.26
+87,Sonic the Hedgehog,GEN,1991,Platform,Sega,4.71,3.68,1.24,0.53,15.00
+88,Sonic the Hedgehog 2,GEN,1992,Platform,Sega,5.15,3.66,0.98,0.50,6.03
+89,Doom,PC,1993,Shooter,id Software,0.74,0.56,0.05,0.12,3.50
+90,Half-Life,PC,1998,Shooter,Valve,1.12,0.86,0.07,0.19,3.00
+91,StarCraft,PC,1998,Strategy,Blizzard Entertainment,0.68,0.32,0.73,0.15,4.50
+92,The Sims,PC,2000,Simulation,Electronic Arts,2.24,1.89,0.22,0.50,6.00
+93,World of Warcraft,PC,2004,Role-Playing,Blizzard Entertainment,3.55,2.87,0.31,0.89,12.00
+94,Counter-Strike,PC,2000,Shooter,Valve,0.58,1.12,0.04,0.25,2.50
+95,Portal 2,PC,2011,Puzzle,Valve,0.89,1.21,0.04,0.31,4.00
+96,Minecraft PC,PC,2011,Misc,Mojang,2.15,3.47,0.21,0.95,238.00
+97,Grand Theft Auto V PC,PC,2015,Action,Take-Two Interactive,3.34,3.05,0.22,1.05,185.00
+98,FIFA 21,PS4,2020,Sports,Electronic Arts,1.18,9.97,0.10,2.10,14.00
+99,The Last of Us Part II,PS4,2020,Action-Adventure,Sony Interactive Entertainment,3.51,3.80,0.43,1.65,10.00
+100,Ghost of Tsushima,PS4,2020,Action-Adventure,Sony Interactive Entertainment,2.72,2.63,0.89,1.01,8.00
+101,Final Fantasy VII Remake,PS4,2020,Role-Playing,Square Enix,1.42,1.43,1.54,0.62,7.00
+102,Persona 5 Royal,PS4,2019,Role-Playing,Atlus,0.87,0.84,0.72,0.42,3.20
+103,Death Stranding,PS4,2019,Action-Adventure,Sony Interactive Entertainment,1.28,1.56,0.57,0.59,5.00
+104,Monster Hunter World,PS4,2018,Role-Playing,Capcom,1.24,1.12,2.34,0.80,21.30
+105,NieR Automata,PS4,2017,Action-Adventure,Square Enix,0.82,0.78,0.68,0.42,7.50
+106,Horizon Zero Dawn,PS4,2017,Action-Adventure,Sony Interactive Entertainment,2.38,3.15,0.28,1.04,10.00
+107,Crash Bandicoot N. Sane Trilogy,PS4,2017,Platform,Activision,2.15,2.89,0.28,0.88,10.00
+108,Bloodborne,PS4,2015,Action-Adventure,Sony Interactive Entertainment,1.12,1.08,0.34,0.46,2.00
+109,Elden Ring,PS5,2022,Action-Adventure,Bandai Namco,3.45,3.21,1.42,1.42,20.50
+110,God of War Ragnarok,PS5,2022,Action-Adventure,Sony Interactive Entertainment,2.87,3.12,0.38,1.34,11.00
+111,Hogwarts Legacy,PS5,2023,Role-Playing,Warner Bros.,2.12,2.31,0.18,0.87,15.00
+112,Diablo IV,PS5,2023,Action,Blizzard Entertainment,1.89,1.95,0.18,0.87,12.00
+113,Resident Evil Village,PS5,2021,Action,Capcom,2.38,1.95,1.02,0.85,6.50
+114,Baldur's Gate 3,PC,2023,Role-Playing,Larian Studios,1.45,1.78,0.12,0.65,10.00
+115,Starfield,XSX,2023,Role-Playing,Bethesda Softworks,1.89,1.42,0.12,0.56,6.00
+116,Super Mario 64,N64,1996,Platform,Nintendo,11.62,4.85,5.55,1.06,11.89
+117,GoldenEye 007,N64,1997,Shooter,Nintendo,5.80,2.26,0.77,0.31,8.09
+118,Pokemon Snap,N64,1999,Misc,Nintendo,1.38,0.43,0.66,0.07,3.00
+119,Super Smash Bros.,N64,1999,Fighting,Nintendo,5.55,2.20,1.87,0.26,5.55
+120,Pokemon Stadium,N64,1999,Misc,Nintendo,2.20,0.88,0.26,0.14,5.45
