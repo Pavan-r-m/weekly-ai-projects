@@ -1,0 +1,5 @@
+# ReAct Agent Simulator
+# Uses Python standard library only — no external packages required.
+# To extend with a real LLM backend, uncomment one of the following:
+# openai>=1.0.0
+# anthropic>=0.25.0
