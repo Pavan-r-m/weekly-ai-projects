@@ -1,0 +1,19 @@
+Alice Chen
+Machine Learning Engineer
+
+Summary:
+Machine learning engineer with 5 years of experience building NLP and
+recommendation systems in production. Strong background in Python and
+statistics.
+
+Skills:
+- Python, SQL, pandas, numpy, scikit-learn, TensorFlow, PyTorch
+- Natural language processing, deep learning, data analysis
+- AWS, Docker, Kubernetes, CI/CD
+- REST API development with Flask
+- Agile / Scrum team environments
+- Strong communication and problem solving abilities
+
+Experience:
+Built an ETL pipeline processing 10M+ records daily and deployed a
+TensorFlow-based recommendation model as a containerized REST API on AWS.

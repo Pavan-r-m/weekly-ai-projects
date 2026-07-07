@@ -1,0 +1,18 @@
+Brian Okafor
+Backend Software Engineer
+
+Summary:
+Backend engineer focused on scalable web services and databases. Some
+exposure to data pipelines but limited machine learning background.
+
+Skills:
+- Java, Spring Boot, PostgreSQL, MySQL, Redis
+- REST API design, microservices architecture
+- Docker, Kubernetes, AWS
+- Git, Linux, CI/CD
+- Agile project management, leadership
+
+Experience:
+Led a team of four engineers building microservices for an e-commerce
+platform. Migrated legacy monolith to a Kubernetes-based microservice
+architecture on AWS.

@@ -1,0 +1,16 @@
+Derek Smith
+Junior Web Developer
+
+Summary:
+Recent bootcamp graduate focused on front-end web development, eager to
+grow into a full-stack role.
+
+Skills:
+- JavaScript, TypeScript, React, HTML, CSS
+- Node.js, Express, MongoDB
+- Git, basic Linux
+- Team collaboration, communication
+
+Experience:
+Built several personal React projects and a portfolio site. Contributed
+to a small open-source Node.js project.

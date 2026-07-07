@@ -1,0 +1,23 @@
+Senior Machine Learning Engineer
+
+We are looking for a Senior Machine Learning Engineer to join our data
+platform team. You will design, build, and deploy machine learning and
+NLP models that power our product recommendation systems.
+
+Responsibilities:
+- Build and maintain data pipelines (ETL) for large-scale datasets
+- Develop machine learning and deep learning models using Python,
+  scikit-learn, TensorFlow, and PyTorch
+- Perform data analysis and data visualization to communicate insights
+- Deploy models as REST API services using Flask or FastAPI, containerized
+  with Docker and orchestrated on Kubernetes
+- Collaborate with cross-functional teams using Agile/Scrum practices
+- Work with cloud infrastructure on AWS
+
+Requirements:
+- Strong programming skills in Python and SQL
+- Experience with pandas, numpy, and scikit-learn
+- Familiarity with natural language processing techniques
+- Experience with AWS and Docker
+- Excellent communication and problem solving skills
+- Bachelor's degree in Computer Science or related field

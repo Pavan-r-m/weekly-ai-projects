@@ -1,0 +1,19 @@
+Carmen Diaz
+Data Scientist
+
+Summary:
+Data scientist with a strong statistics background and growing machine
+learning experience. Comfortable with Python data tooling and
+visualization but newer to production deployment.
+
+Skills:
+- Python, R, SQL, pandas, numpy, scikit-learn
+- Statistics, data analysis, data visualization, matplotlib, seaborn
+- Natural language processing fundamentals
+- Tableau, Power BI
+- Communication and public speaking
+
+Experience:
+Performed exploratory data analysis and built classification models for
+customer churn prediction. Presented findings to leadership using Tableau
+dashboards.
