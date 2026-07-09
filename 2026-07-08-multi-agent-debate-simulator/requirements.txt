@@ -1,0 +1,6 @@
+# Multi-Agent Debate Simulator
+# Uses only the Python standard library -- no external packages required.
+#
+# To swap in a real LLM backend (see agents.get_llm_backend), you would add:
+# openai>=1.0.0
+# anthropic>=0.25.0
