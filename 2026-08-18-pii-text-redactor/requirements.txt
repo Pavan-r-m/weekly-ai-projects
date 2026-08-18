@@ -1,0 +1,7 @@
+# No third-party dependencies are required -- the redactor is built entirely
+# on the Python 3 standard library (re, argparse, json, dataclasses) so it
+# runs anywhere with zero installs.
+#
+# The line below is included only if you want to extend this project with
+# pytest-based unit tests.
+pytest>=7.4.0
