@@ -1,0 +1,17 @@
+============================================================
+GLOBAL COFFEE TRADE & CONSUMPTION ANALYSIS -- SUMMARY
+============================================================
+Dataset: 10 countries, 2000-2023
+
+Top producer (2023): Brazil (63.0M bags)
+Highest domestic per-capita consumption (2023): Brazil (7.18 kg/person)
+Fastest-growing producer since 2000: Vietnam (+156.8% change in output)
+Brazil price-vs-export-revenue correlation: r = 0.74 (strong positive relationship)
+
+Vietnam production forecast (linear trend):
+  2024: 26.1M bags
+  2025: 26.8M bags
+  2026: 27.5M bags
+  2027: 28.2M bags
+  2028: 28.9M bags
+============================================================
